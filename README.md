@@ -29,3 +29,11 @@ yarn hardhat coverage
 ## License
 
 UNLICENSED
+
+### For running the project locally make sure the following settings are presented in your local .env file:
+
+```shell
+SEPOLIA_KEY=
+ACCOUNT_PRIVATE_KEY=
+ETHERSCAN_API_KEY=
+```
